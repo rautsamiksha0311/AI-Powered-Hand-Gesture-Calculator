@@ -50,16 +50,6 @@ This project explores artificial intelligence, computer vision, machine learning
 | D | Division (/) |
 | Q | Quit the application |
 
-## 📸 Application Preview
-
-*Add a screenshot of your running calculator here.*
-
-After uploading a screenshot to your repository, you can display it using:
-
-```markdown
-![AI Hand Gesture Calculator](screenshots/gesture-calculator.png)
-```
-
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
@@ -140,5 +130,6 @@ This project is available under the MIT License. See the `LICENSE` file for deta
 
 ## 📞 Contact
 
-GitHub: [Samiksha Raut](https://github.com/rautsamiksha0311)
+For questions or suggestions, reach out at **[rautsamiksha0811@gmail.com](mailto:rautsamiksha0811@gmail.com)**
+
 
